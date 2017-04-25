@@ -78,72 +78,72 @@ ${CND_DISTDIR}/${CND_CONF}/${CND_PLATFORM}/cs470_project1: ${OBJECTFILES}
 ${OBJECTDIR}/_ext/3363a054/Competition.o: ../../Desktop/School/CS\ 470/Project\ 1/C++/Competition.cpp
 	${MKDIR} -p ${OBJECTDIR}/_ext/3363a054
 	${RM} "$@.d"
-	$(COMPILE.cc) -g -MMD -MP -MF "$@.d" -o ${OBJECTDIR}/_ext/3363a054/Competition.o ../../Desktop/School/CS\ 470/Project\ 1/C++/Competition.cpp
+	$(COMPILE.cc) -g -std=c++11 -MMD -MP -MF "$@.d" -o ${OBJECTDIR}/_ext/3363a054/Competition.o ../../Desktop/School/CS\ 470/Project\ 1/C++/Competition.cpp
 
 ${OBJECTDIR}/_ext/3363a054/Game.o: ../../Desktop/School/CS\ 470/Project\ 1/C++/Game.cpp
 	${MKDIR} -p ${OBJECTDIR}/_ext/3363a054
 	${RM} "$@.d"
-	$(COMPILE.cc) -g -MMD -MP -MF "$@.d" -o ${OBJECTDIR}/_ext/3363a054/Game.o ../../Desktop/School/CS\ 470/Project\ 1/C++/Game.cpp
+	$(COMPILE.cc) -g -std=c++11 -MMD -MP -MF "$@.d" -o ${OBJECTDIR}/_ext/3363a054/Game.o ../../Desktop/School/CS\ 470/Project\ 1/C++/Game.cpp
 
 ${OBJECTDIR}/_ext/3363a054/GameScore.o: ../../Desktop/School/CS\ 470/Project\ 1/C++/GameScore.cpp
 	${MKDIR} -p ${OBJECTDIR}/_ext/3363a054
 	${RM} "$@.d"
-	$(COMPILE.cc) -g -MMD -MP -MF "$@.d" -o ${OBJECTDIR}/_ext/3363a054/GameScore.o ../../Desktop/School/CS\ 470/Project\ 1/C++/GameScore.cpp
+	$(COMPILE.cc) -g -std=c++11 -MMD -MP -MF "$@.d" -o ${OBJECTDIR}/_ext/3363a054/GameScore.o ../../Desktop/School/CS\ 470/Project\ 1/C++/GameScore.cpp
 
 ${OBJECTDIR}/_ext/3363a054/Match.o: ../../Desktop/School/CS\ 470/Project\ 1/C++/Match.cpp
 	${MKDIR} -p ${OBJECTDIR}/_ext/3363a054
 	${RM} "$@.d"
-	$(COMPILE.cc) -g -MMD -MP -MF "$@.d" -o ${OBJECTDIR}/_ext/3363a054/Match.o ../../Desktop/School/CS\ 470/Project\ 1/C++/Match.cpp
+	$(COMPILE.cc) -g -std=c++11 -MMD -MP -MF "$@.d" -o ${OBJECTDIR}/_ext/3363a054/Match.o ../../Desktop/School/CS\ 470/Project\ 1/C++/Match.cpp
 
 ${OBJECTDIR}/_ext/3363a054/MatchScore.o: ../../Desktop/School/CS\ 470/Project\ 1/C++/MatchScore.cpp
 	${MKDIR} -p ${OBJECTDIR}/_ext/3363a054
 	${RM} "$@.d"
-	$(COMPILE.cc) -g -MMD -MP -MF "$@.d" -o ${OBJECTDIR}/_ext/3363a054/MatchScore.o ../../Desktop/School/CS\ 470/Project\ 1/C++/MatchScore.cpp
+	$(COMPILE.cc) -g -std=c++11 -MMD -MP -MF "$@.d" -o ${OBJECTDIR}/_ext/3363a054/MatchScore.o ../../Desktop/School/CS\ 470/Project\ 1/C++/MatchScore.cpp
 
 ${OBJECTDIR}/_ext/3363a054/Player.o: ../../Desktop/School/CS\ 470/Project\ 1/C++/Player.cpp
 	${MKDIR} -p ${OBJECTDIR}/_ext/3363a054
 	${RM} "$@.d"
-	$(COMPILE.cc) -g -MMD -MP -MF "$@.d" -o ${OBJECTDIR}/_ext/3363a054/Player.o ../../Desktop/School/CS\ 470/Project\ 1/C++/Player.cpp
+	$(COMPILE.cc) -g -std=c++11 -MMD -MP -MF "$@.d" -o ${OBJECTDIR}/_ext/3363a054/Player.o ../../Desktop/School/CS\ 470/Project\ 1/C++/Player.cpp
 
 ${OBJECTDIR}/_ext/3363a054/PointScore.o: ../../Desktop/School/CS\ 470/Project\ 1/C++/PointScore.cpp
 	${MKDIR} -p ${OBJECTDIR}/_ext/3363a054
 	${RM} "$@.d"
-	$(COMPILE.cc) -g -MMD -MP -MF "$@.d" -o ${OBJECTDIR}/_ext/3363a054/PointScore.o ../../Desktop/School/CS\ 470/Project\ 1/C++/PointScore.cpp
+	$(COMPILE.cc) -g -std=c++11 -MMD -MP -MF "$@.d" -o ${OBJECTDIR}/_ext/3363a054/PointScore.o ../../Desktop/School/CS\ 470/Project\ 1/C++/PointScore.cpp
 
 ${OBJECTDIR}/_ext/3363a054/Score.o: ../../Desktop/School/CS\ 470/Project\ 1/C++/Score.cpp
 	${MKDIR} -p ${OBJECTDIR}/_ext/3363a054
 	${RM} "$@.d"
-	$(COMPILE.cc) -g -MMD -MP -MF "$@.d" -o ${OBJECTDIR}/_ext/3363a054/Score.o ../../Desktop/School/CS\ 470/Project\ 1/C++/Score.cpp
+	$(COMPILE.cc) -g -std=c++11 -MMD -MP -MF "$@.d" -o ${OBJECTDIR}/_ext/3363a054/Score.o ../../Desktop/School/CS\ 470/Project\ 1/C++/Score.cpp
 
 ${OBJECTDIR}/_ext/3363a054/Set.o: ../../Desktop/School/CS\ 470/Project\ 1/C++/Set.cpp
 	${MKDIR} -p ${OBJECTDIR}/_ext/3363a054
 	${RM} "$@.d"
-	$(COMPILE.cc) -g -MMD -MP -MF "$@.d" -o ${OBJECTDIR}/_ext/3363a054/Set.o ../../Desktop/School/CS\ 470/Project\ 1/C++/Set.cpp
+	$(COMPILE.cc) -g -std=c++11 -MMD -MP -MF "$@.d" -o ${OBJECTDIR}/_ext/3363a054/Set.o ../../Desktop/School/CS\ 470/Project\ 1/C++/Set.cpp
 
 ${OBJECTDIR}/_ext/3363a054/SetScore.o: ../../Desktop/School/CS\ 470/Project\ 1/C++/SetScore.cpp
 	${MKDIR} -p ${OBJECTDIR}/_ext/3363a054
 	${RM} "$@.d"
-	$(COMPILE.cc) -g -MMD -MP -MF "$@.d" -o ${OBJECTDIR}/_ext/3363a054/SetScore.o ../../Desktop/School/CS\ 470/Project\ 1/C++/SetScore.cpp
+	$(COMPILE.cc) -g -std=c++11 -MMD -MP -MF "$@.d" -o ${OBJECTDIR}/_ext/3363a054/SetScore.o ../../Desktop/School/CS\ 470/Project\ 1/C++/SetScore.cpp
 
 ${OBJECTDIR}/_ext/3363a054/TieBreaker.o: ../../Desktop/School/CS\ 470/Project\ 1/C++/TieBreaker.cpp
 	${MKDIR} -p ${OBJECTDIR}/_ext/3363a054
 	${RM} "$@.d"
-	$(COMPILE.cc) -g -MMD -MP -MF "$@.d" -o ${OBJECTDIR}/_ext/3363a054/TieBreaker.o ../../Desktop/School/CS\ 470/Project\ 1/C++/TieBreaker.cpp
+	$(COMPILE.cc) -g -std=c++11 -MMD -MP -MF "$@.d" -o ${OBJECTDIR}/_ext/3363a054/TieBreaker.o ../../Desktop/School/CS\ 470/Project\ 1/C++/TieBreaker.cpp
 
 ${OBJECTDIR}/_ext/3363a054/TieBreakerScore.o: ../../Desktop/School/CS\ 470/Project\ 1/C++/TieBreakerScore.cpp
 	${MKDIR} -p ${OBJECTDIR}/_ext/3363a054
 	${RM} "$@.d"
-	$(COMPILE.cc) -g -MMD -MP -MF "$@.d" -o ${OBJECTDIR}/_ext/3363a054/TieBreakerScore.o ../../Desktop/School/CS\ 470/Project\ 1/C++/TieBreakerScore.cpp
+	$(COMPILE.cc) -g -std=c++11 -MMD -MP -MF "$@.d" -o ${OBJECTDIR}/_ext/3363a054/TieBreakerScore.o ../../Desktop/School/CS\ 470/Project\ 1/C++/TieBreakerScore.cpp
 
 ${OBJECTDIR}/_ext/3363a054/main.o: ../../Desktop/School/CS\ 470/Project\ 1/C++/main.cpp
 	${MKDIR} -p ${OBJECTDIR}/_ext/3363a054
 	${RM} "$@.d"
-	$(COMPILE.cc) -g -MMD -MP -MF "$@.d" -o ${OBJECTDIR}/_ext/3363a054/main.o ../../Desktop/School/CS\ 470/Project\ 1/C++/main.cpp
+	$(COMPILE.cc) -g -std=c++11 -MMD -MP -MF "$@.d" -o ${OBJECTDIR}/_ext/3363a054/main.o ../../Desktop/School/CS\ 470/Project\ 1/C++/main.cpp
 
 ${OBJECTDIR}/tennis.o: tennis.cpp
 	${MKDIR} -p ${OBJECTDIR}
 	${RM} "$@.d"
-	$(COMPILE.cc) -g -MMD -MP -MF "$@.d" -o ${OBJECTDIR}/tennis.o tennis.cpp
+	$(COMPILE.cc) -g -std=c++11 -MMD -MP -MF "$@.d" -o ${OBJECTDIR}/tennis.o tennis.cpp
 
 # Subprojects
 .build-subprojects:
